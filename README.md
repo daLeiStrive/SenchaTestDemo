@@ -1,3 +1,4 @@
+# 这个项目时不用正确运行的？
 # SenchaTestDemo
 Example applications and workspaces to demonstrate use of Sencha Test.  Each of these
 has been decorated with a few starter tests.
